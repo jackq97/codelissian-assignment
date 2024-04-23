@@ -1,4 +1,4 @@
-package com.jask.codelissianassignment.screens.movies_list_screen
+package com.jask.codelissianassignment.screens.news_list_screen
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope

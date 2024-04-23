@@ -7,7 +7,7 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
-import com.jask.codelissianassignment.screens.movies_list_screen.NewsListScreen
+import com.jask.codelissianassignment.screens.news_list_screen.NewsListScreen
 import com.jask.codelissianassignment.ui.theme.CodelissianAssignmentTheme
 import dagger.hilt.android.AndroidEntryPoint
 
